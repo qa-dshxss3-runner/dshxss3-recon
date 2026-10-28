@@ -5,6 +5,6 @@ Feature: Recon Project A
     When the assertion runs
     Then the result is reported
 
-  Scenario: dshcapi2c probe (uid:3e0db414-b632-4036-8837-96e7f0f3868d)
+  Scenario: dshcapi2c probe (uid:421032dc-d94a-4b4c-8fd3-cf1dc1506aed)
     Given the probe is armed
     Then the probe finishes
